@@ -10,6 +10,11 @@ What is Julia? -> [Julia](https://julialang.org/)
 
 ノートブックは、実際にダウンロードして実行することができます。
 
+binder を使うとどこででも試すことができます。
+(下記のアイコンから実行できます。)
+
+[![Binder](https://mybinder.org/v2/gh/akio-tomiya/intro_julia_minimum2024/167852f9e674f92f58b049b829d85a0532a37e11?urlpath=lab%2Ftree%2Fshort_intro_julia.ipynb)
+
 <!--
 binder を使うとどこででも試すことができます。
 (下記のアイコンから実行できます。)
