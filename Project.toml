@@ -1,1 +1,4 @@
+[compat]
+julia = "1.11"
+
 [deps]
